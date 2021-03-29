@@ -1,5 +1,6 @@
 # The Denorine Project
 The Denorine Project Goal is to create a hyper extensible bot framework perfect for your server.
+
 Want a music bot? Host denorine and do `d!dpm install NyleCohen/Transponder`
 
 Want an anime bot? No problem, `d!dpm install transGirl-alice/nekos4life`
