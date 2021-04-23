@@ -9,3 +9,4 @@ The bot isn't yet public, check back soon for installation instructions!
 * Implement a package manager
 * Add a sfw flag
 * Make a version for multiple servers and include server sandboxing
+* Make a better security system apparently
