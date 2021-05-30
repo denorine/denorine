@@ -6,7 +6,7 @@ Want an anime bot? No problem, `d!dpm install transGirl-alice/nekos4life`
 The bot isn't yet public, check back soon for installation instructions!
 ### Goals
 * Implement an easy to use api (ehh :\\) (done)
-* Implement a package manager (done but has huge security flaws that need patching) (half-done, dependency resolution broken)
+* Implement a package manager (done)
 * Add a sfw flag (lets hope most people using this bot are over 18 for now) (not planned for near future)
 * Make a version for multiple servers and include server sandboxing (yeah I think I learned my lesson) (not planned for near future)
 * Make a better security system apparently (welp) (done)
